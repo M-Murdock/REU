@@ -1,4 +1,4 @@
-read_data.csv contains the full chart of features for the Neris 42 dataset. 
+read_data_(1-4).csv contains the full chart of features for the CTU-Malware-Capture-Botnet-(42-45) datasets. 
 
 data.csv contains the reduced dataset of features for the Neris 42 dataset.
 
